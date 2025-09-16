@@ -9,7 +9,7 @@ Un **portfolio interactif en ligne** développé en **HTML, CSS et JavaScript**,
 - 📑 **Organisation en cartes** (Présentation, Projets, Compétences, Contact, etc.)  
 - 💻 **Section Projets** avec boutons vers la **démo en ligne** et le **GitHub**  
 - 📱 **Responsive** : design adapté aux PC, tablettes et mobiles  
-- 📩 **Section Contact** avec liens vers **GitHub** et **LinkedIn**  
+- 📩 **Section Contact** avec liens vers **GitHub**  
 
 ---
 
