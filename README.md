@@ -6,7 +6,6 @@ Un **portfolio interactif en ligne** développé en **HTML, CSS et JavaScript**,
 
 ## ✨ Fonctionnalités
 
-- 🎨 **Mode clair / sombre** (toggle sauvegardé en localStorage)  bientôt
 - 📑 **Organisation en cartes** (Présentation, Projets, Compétences, Contact, etc.)  
 - 💻 **Section Projets** avec boutons vers la **démo en ligne** et le **GitHub**  
 - 📱 **Responsive** : design adapté aux PC, tablettes et mobiles  
